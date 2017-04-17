@@ -12,7 +12,8 @@ import java.util.List;
  * productFactors(), so do not need a separate test. Also note that to test a
  * solution to this logic puzzle, it is suggested to test the condition with
  * maxSum = 1685 to ensure that both the original solution (4, 13) and the
- * additional solution (4, 61), and only these solutions, are found.
+ * additional solution (4, 61), and only these solutions, are found. Note
+ * also that at 1684 only the original solution should be found!
  */
 public class SumAndProductPuzzle {
     private final long beginning;
